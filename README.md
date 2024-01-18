@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm O'Shaun</h1>
-<h3 align="center">A passionate frontend developer from Belize & St. Kitts</h3>
+<h3 align="center">A passionate Full-Stack developer from Belize & St. Kitts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshaunb&label=Profile%20views&color=0e75b6&style=flat" alt="oshaunb" /> </p>
 
