@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshaunb&label=Profile%20views&color=0e75b6&style=flat" alt="oshaunb" /> </p>
 
-- 🔭 I’m currently working on **buliding a data pipeline**
+- 🔭 I’m currently working on **buliding my portfolio website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **APIs**
 
 - 👯 I’m looking to collaborate on **more react projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@oshaunb/data-engineers-librarians-of-the-digital-world-9c6088e762f5](https://medium.com/@oshaunb/data-engineers-librarians-of-the-digital-world-9c6088e762f5)
 
-- 💬 Ask me about **React, JavaScript, BULMA(CSS)**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **oshaun1250@gmail.com**
 
